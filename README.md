@@ -9,4 +9,4 @@ Nama : Dedy Koeswara Ibrahim
 =======================================================
 
 ## ScreenShot OutPut 
-![Screenshoot](https://github.com/dedykoeswara/mobprog-tugas2.1/blob/master/screenshoot/ss-1.jpg "Screenshoot")
+![Screenshoot](https://github.com/dedykoeswara/mobprog-tugas2.1/blob/master/screenshot/ss-1.jpg "Screenshoot")
